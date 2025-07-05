@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+PyJWT
+Werkzeug
+Pillow
+numpy
+gunicorn
+requests
+tensorflow
