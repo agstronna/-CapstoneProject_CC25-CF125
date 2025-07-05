@@ -55,7 +55,7 @@ Atau menggunakan requirements.txt untuk menginstal semua library yang tercantum 
 ### 1. Clone Repository
 
 bash
-git clone https://github.com/viapiyaaa/Capstone_CC25_CF125.git
+https://github.com/agstronna/-CapstoneProject_CC25-CF125.git
 cd trashguCapstone
 
 ### 2. Jalankan Backend (Flask API)
